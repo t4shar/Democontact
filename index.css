@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background: url('bgupload.avif');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form__wraper {
+    max-width: 500px !important;
+    width: 100%;
+    padding-inline: 20px;
+}
+.form_kk3zu7__form_made_by {
+    display: none;
+}
+.container .form__wraper .form_kk3zu7__form_label {
+    padding: 0.5rem 0.5rem 0.5rem !important;
+}
+.container .form__wraper #form_kk3zu7__form {
+    padding: 20px 40px 20px 20px !important;
+}
